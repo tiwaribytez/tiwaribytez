@@ -1,18 +1,18 @@
 ## Hi there 👋
 ### Hi 👋, I'm Anand  
-A passionate developer from India  
+A DevOps Engineer from India  
 
-👨‍💻 **Coding**  
-🌱 I’m currently learning **React.js**  
-💬 Ask me about **Kubernetes, RHEL, MERN, & DSA**  
-📫 How to reach me **anand.dev@example.com**  
+👨‍💻 **Skills**  
+🌱 I’m currently learning **DevOps**  
+💬 Ask me about **Kubernetes, RHEL, Ubuntu, AWS, Docker & Jenkins**  
+📫 How to reach me **anand7k07@gmail.com**  
 
 ---
 
 ### Connect with me:  
-- [GitHub](https://github.com/your-github-username)  
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)  
-- [Twitter](https://twitter.com/your-twitter-handle)  
+- [GitHub](https://github.com/tiwaribytez)  
+- [LinkedIn](https://linkedin.com/in/tiwaribytez)  
+- [Twitter](https://twitter.com/tiwaribytez)  
 
 ---
 
@@ -40,5 +40,5 @@ A passionate developer from India
 
 ---
 
-⭐️ From [Anand](https://github.com/your-github-username)
+⭐️ From [Anand](https://github.com/tiwaribytez)
 
