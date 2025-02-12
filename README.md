@@ -1,4 +1,5 @@
-## Hi there 👋### Hi 👋, I'm Anand  
+## Hi there 👋
+### Hi 👋, I'm Anand  
 A passionate developer from India  
 
 👨‍💻 **Coding**  
