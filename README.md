@@ -21,7 +21,8 @@ A DevOps Engineer from India
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)    
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) 
-![DevOps](https://img.shields.io/azure-devops/coverage/ORGANIZATION/PROJECT/DEFINITION_ID.svg)
+![DevOps](https://img.shields.io/badge/-DevOps-blue?style=flat-square&logo=dev.to&logoColor=white)
+
 
 ---
 
